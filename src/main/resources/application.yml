@@ -1,0 +1,5 @@
+spring:
+  data:
+    redis:
+      host: 49.233.211.104
+      password: 123456
